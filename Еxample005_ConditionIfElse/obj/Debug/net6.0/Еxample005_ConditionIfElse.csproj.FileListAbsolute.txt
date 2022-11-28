@@ -1,0 +1,15 @@
+C:\Users\o.voropaev\Documents\GitHub\Examples\Examples\Еxample005_ConditionIfElse\bin\Debug\net6.0\Еxample005_ConditionIfElse.exe
+C:\Users\o.voropaev\Documents\GitHub\Examples\Examples\Еxample005_ConditionIfElse\bin\Debug\net6.0\Еxample005_ConditionIfElse.deps.json
+C:\Users\o.voropaev\Documents\GitHub\Examples\Examples\Еxample005_ConditionIfElse\bin\Debug\net6.0\Еxample005_ConditionIfElse.runtimeconfig.json
+C:\Users\o.voropaev\Documents\GitHub\Examples\Examples\Еxample005_ConditionIfElse\bin\Debug\net6.0\Еxample005_ConditionIfElse.dll
+C:\Users\o.voropaev\Documents\GitHub\Examples\Examples\Еxample005_ConditionIfElse\bin\Debug\net6.0\Еxample005_ConditionIfElse.pdb
+C:\Users\o.voropaev\Documents\GitHub\Examples\Examples\Еxample005_ConditionIfElse\obj\Debug\net6.0\Еxample005_ConditionIfElse.csproj.AssemblyReference.cache
+C:\Users\o.voropaev\Documents\GitHub\Examples\Examples\Еxample005_ConditionIfElse\obj\Debug\net6.0\Еxample005_ConditionIfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\o.voropaev\Documents\GitHub\Examples\Examples\Еxample005_ConditionIfElse\obj\Debug\net6.0\Еxample005_ConditionIfElse.AssemblyInfoInputs.cache
+C:\Users\o.voropaev\Documents\GitHub\Examples\Examples\Еxample005_ConditionIfElse\obj\Debug\net6.0\Еxample005_ConditionIfElse.AssemblyInfo.cs
+C:\Users\o.voropaev\Documents\GitHub\Examples\Examples\Еxample005_ConditionIfElse\obj\Debug\net6.0\Еxample005_ConditionIfElse.csproj.CoreCompileInputs.cache
+C:\Users\o.voropaev\Documents\GitHub\Examples\Examples\Еxample005_ConditionIfElse\obj\Debug\net6.0\Еxample005_ConditionIfElse.dll
+C:\Users\o.voropaev\Documents\GitHub\Examples\Examples\Еxample005_ConditionIfElse\obj\Debug\net6.0\refint\Еxample005_ConditionIfElse.dll
+C:\Users\o.voropaev\Documents\GitHub\Examples\Examples\Еxample005_ConditionIfElse\obj\Debug\net6.0\Еxample005_ConditionIfElse.pdb
+C:\Users\o.voropaev\Documents\GitHub\Examples\Examples\Еxample005_ConditionIfElse\obj\Debug\net6.0\Еxample005_ConditionIfElse.genruntimeconfig.cache
+C:\Users\o.voropaev\Documents\GitHub\Examples\Examples\Еxample005_ConditionIfElse\obj\Debug\net6.0\ref\Еxample005_ConditionIfElse.dll
