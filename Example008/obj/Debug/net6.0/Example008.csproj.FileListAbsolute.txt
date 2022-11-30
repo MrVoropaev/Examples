@@ -1,0 +1,15 @@
+/Users/olegvoropaev/Documents/GitHub/Examples/Examples/Example008/bin/Debug/net6.0/Example008
+/Users/olegvoropaev/Documents/GitHub/Examples/Examples/Example008/bin/Debug/net6.0/Example008.deps.json
+/Users/olegvoropaev/Documents/GitHub/Examples/Examples/Example008/bin/Debug/net6.0/Example008.runtimeconfig.json
+/Users/olegvoropaev/Documents/GitHub/Examples/Examples/Example008/bin/Debug/net6.0/Example008.dll
+/Users/olegvoropaev/Documents/GitHub/Examples/Examples/Example008/bin/Debug/net6.0/Example008.pdb
+/Users/olegvoropaev/Documents/GitHub/Examples/Examples/Example008/obj/Debug/net6.0/Example008.csproj.AssemblyReference.cache
+/Users/olegvoropaev/Documents/GitHub/Examples/Examples/Example008/obj/Debug/net6.0/Example008.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olegvoropaev/Documents/GitHub/Examples/Examples/Example008/obj/Debug/net6.0/Example008.AssemblyInfoInputs.cache
+/Users/olegvoropaev/Documents/GitHub/Examples/Examples/Example008/obj/Debug/net6.0/Example008.AssemblyInfo.cs
+/Users/olegvoropaev/Documents/GitHub/Examples/Examples/Example008/obj/Debug/net6.0/Example008.csproj.CoreCompileInputs.cache
+/Users/olegvoropaev/Documents/GitHub/Examples/Examples/Example008/obj/Debug/net6.0/Example008.dll
+/Users/olegvoropaev/Documents/GitHub/Examples/Examples/Example008/obj/Debug/net6.0/refint/Example008.dll
+/Users/olegvoropaev/Documents/GitHub/Examples/Examples/Example008/obj/Debug/net6.0/Example008.pdb
+/Users/olegvoropaev/Documents/GitHub/Examples/Examples/Example008/obj/Debug/net6.0/Example008.genruntimeconfig.cache
+/Users/olegvoropaev/Documents/GitHub/Examples/Examples/Example008/obj/Debug/net6.0/ref/Example008.dll
